@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "542327663732",
+    "project_id": "fuel-calculator-63c83",
+    "storage_bucket": "fuel-calculator-63c83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542327663732:android:8e9a59d4d42b93ccc37521",
+        "android_client_info": {
+          "package_name": "com.example.driving_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542327663732-ccadfu84c8lc68gnn3vaehnqoegms2hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAujdk1UMBX9dkCE7rQJRCY7V9bbl0prE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542327663732-ccadfu84c8lc68gnn3vaehnqoegms2hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

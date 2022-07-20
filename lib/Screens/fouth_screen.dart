@@ -1,8 +1,8 @@
-import 'package:driving_app/homepage.dart';
+import 'package:driving_app/Screens/homepage.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'UsersAccount/login_screen.dart';
-import 'constants.dart';
+import '../UsersAccount/login_screen.dart';
+import '../constants.dart';
 
 
 

@@ -3,15 +3,15 @@ import 'dart:collection';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:driving_app/function.dart';
 import 'package:driving_app/map/map.dart';
-import 'package:driving_app/third_screen.dart';
-import 'package:driving_app/welcome_page.dart';
+import 'package:driving_app/Screens/third_screen.dart';
+import 'package:driving_app/Screens/welcome_page.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:get_storage/get_storage.dart';
-import 'UsersAccount/login_screen.dart';
-import 'constants.dart';
+import '../UsersAccount/login_screen.dart';
+import '../constants.dart';
 import 'second_screen.dart';
-import 'map/globals.dart';
+import '../map/globals.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key}) : super(key: key);

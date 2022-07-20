@@ -1,12 +1,12 @@
-import 'package:driving_app/third_screen.dart';
-import 'package:driving_app/welcome_page.dart';
+import 'package:driving_app/Screens/third_screen.dart';
+import 'package:driving_app/Screens/welcome_page.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:get_storage/get_storage.dart';
 import 'UsersAccount/login_screen.dart';
 import 'UsersAccount/register_screen.dart';
-import 'homepage.dart';
+import 'Screens/homepage.dart';
 
 void main() async {
   await GetStorage.init();
